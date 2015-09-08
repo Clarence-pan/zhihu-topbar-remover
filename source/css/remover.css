@@ -1,0 +1,27 @@
+#zhihu-top-bar-remover-notice {
+    display: block;
+    position: fixed;
+    right: 0;
+    top: 0;
+    padding: 0 0.5em;
+    border-radius: 1em;
+    height: 1em;
+    width: 0;
+    color: #fff;
+    background-color: #888;
+    box-shadow: 1px 1px #111;
+    opacity: 0.4;
+    z-index: 99999999;
+}
+
+#zhihu-top-bar-remover-notice.active{
+    background-color: #1870cc;
+}
+
+.zu-top, .zu-main-sidebar {
+    display: none !important;
+}
+
+.zu-top.remover-reverted, .zu-main-sidebar.remover-reverted{
+    display: block !important;
+}
