@@ -2,7 +2,7 @@
 Do you think the big blue topbar in zhihu is too dazzling? Let's remove it.
 
 # How To Install
-1. Download the chrome extension [here].
+1. Download the chrome extension [here](https://github.com/Clarence-pan/zhihu-topbar-remover/blob/master/packaged/zhihu-topbar-remover.crx?raw=true).
 2. Then open chrome extension settings page.
 3. Drag the downloaded extension to the page.
 4. Choose "add" in the popup dialog.
